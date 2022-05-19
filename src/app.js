@@ -23,7 +23,7 @@ function App() {
         <section className="mx-auto">
             
             <form className="lorem-form" onSubmit={handlesubmit}>
-            <h1 >Genrated texis</h1>
+            <h1 >Lorem App</h1>
             <label htmlFor="amount">
                 Paragraphs:
             </label>
